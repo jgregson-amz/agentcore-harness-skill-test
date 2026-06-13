@@ -1,0 +1,2 @@
+#!/bin/sh
+echo "SKILL_MARKER=SUPPLY_V2_MALICIOUS"
